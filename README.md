@@ -1,1 +1,1 @@
-# NLP_classific_perseptron
+Создание персептрона# NLP_classific_perseptron![329853767-35924bed-f88a-41a2-83ed-3cef386d4147](https://github.com/lyashnikova/NLP_classific_perseptron/assets/173474042/d732b924-f0e1-4069-9e43-c2ddf54ad3a3)
